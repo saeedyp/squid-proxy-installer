@@ -8,6 +8,9 @@ Auto install Squid 3 proxy on following linux OS.
 * Debian 8, 9, 10
 * CentOS 7, 8
 
+## Default Port for proxy
+
+post is `3128`
 
 ## Install Squid
 
